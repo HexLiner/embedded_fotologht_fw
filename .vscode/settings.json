@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "io.h": "c",
+        "iom8u2.h": "c",
+        "stdint.h": "c",
+        "iom8.h": "c",
+        "interrupt.h": "c",
+        "systimer.h": "c",
+        "heater_driver.h": "c",
+        "seg_led_driver.h": "c",
+        "stdbool.h": "c",
+        "meas.h": "c",
+        "eeprom_driver.h": "c",
+        "device_registers.h": "c",
+        "cli.h": "c",
+        "mcp9804_temp_sensor_driver.h": "c",
+        "error_handler.h": "c",
+        "char1602.h": "c",
+        "typeinfo": "c",
+        "gpio_driver.h": "c"
+    }
+}
